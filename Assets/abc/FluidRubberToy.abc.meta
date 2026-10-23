@@ -2,7 +2,17 @@ fileFormatVersion: 2
 guid: 9bcc26364b654ec4e9371b4e54cfc69b
 ScriptedImporter:
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Week7_FlipsSimulation/merge2:000:'
+    second: {fileID: 2100000, guid: 3f4ffc276b3a3a4478598f9cd82b5ce1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Week7_FlipsSimulation/merge2_1:000:'
+    second: {fileID: 2100000, guid: ae9c814a81f5ce443b15f3100203f792, type: 2}
   serializedVersion: 2
   userData: 
   assetBundleName: 

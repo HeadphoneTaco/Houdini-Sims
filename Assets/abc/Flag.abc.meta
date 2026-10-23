@@ -2,7 +2,12 @@ fileFormatVersion: 2
 guid: c8e9229d1e7b9a340bae345aab5cd628
 ScriptedImporter:
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Week6_VellumSimulation/vellumsolver2:000:vellumobject1
+    second: {fileID: 2100000, guid: 8a6e1865edc860e47843e560128b0d3e, type: 2}
   serializedVersion: 2
   userData: 
   assetBundleName: 

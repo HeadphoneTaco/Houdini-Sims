@@ -2,7 +2,22 @@ fileFormatVersion: 2
 guid: b01583b1f23fe48408859f4f2a2a1c22
 ScriptedImporter:
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Week6_VellumSimulation/merge1:000:vellumobject1
+    second: {fileID: 2100000, guid: 66c70ac413288484aa24ea92685a2c82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Week6_VellumSimulation/merge1:001:head
+    second: {fileID: 2100000, guid: 3de04399b1a658142bcd96b168e21f97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Week6_VellumSimulation/merge1:002:eyes
+    second: {fileID: 2100000, guid: 3f4ffc276b3a3a4478598f9cd82b5ce1, type: 2}
   serializedVersion: 2
   userData: 
   assetBundleName: 
