@@ -2,7 +2,32 @@ fileFormatVersion: 2
 guid: d6b1f7e2a499b224b8ca48e63c5bebad
 ScriptedImporter:
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pig_Cry/merge1:000:PigEyes
+    second: {fileID: 2100000, guid: 28dc3bb5a1bec014bacbe175d997260c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pig_Cry/merge1:001:PigFace
+    second: {fileID: -876546973899608171, guid: 1d09ce0fcc0272845a969fa9a844f369, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pig_Cry/merge1:002:PigNeck
+    second: {fileID: 2100000, guid: 71f34d500c82fbc41a1a5a002299d2ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pig_Cry/merge1:003:PigThroat
+    second: {fileID: 2100000, guid: 8d7532a93bce6f04db2ba96762e82845, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Pig_Cry/merge1_1:000:'
+    second: {fileID: 2100000, guid: bd1548102dc5a6141bd10be0740dd64f, type: 2}
   serializedVersion: 2
   userData: 
   assetBundleName: 
